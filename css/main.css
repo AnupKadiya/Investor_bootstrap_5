@@ -458,3 +458,24 @@ img {
 .txt:hover{
     color: rgb(0, 171, 205)!important;
 }
+/* scroll up button */
+#myBtn {
+    opacity: 0%;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: rgba(60,65,71,255);
+    color: white;
+    cursor: pointer;
+    padding: 15px 20px;
+    border-radius: 5px;
+    transition: opacity 1s;
+  }
+  
+  #myBtn:hover {
+    background-color: #555;
+  }
