@@ -1,0 +1,97 @@
+@media screen and (max-width:991px) {
+    .head_menu{
+        position: sticky;
+    }
+    .h1-head{
+        font-size: 42px;
+    }
+    .p-head{
+        font-size: 16px;
+    }
+    .btn-font{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:550px) {
+  
+    .h1-head{
+        font-size: 38px;
+    }
+    .p-head{
+        font-size: 15px;
+    }
+    .btn-font{
+        font-size: 14px;
+    }
+    .padd{
+        padding: 10px!important;
+    }
+}
+@media screen and (max-width:470px) {
+  
+    .h1-head{
+        font-size: 36px;
+    }
+    .p-head{
+        font-size: 14px;
+    }
+    .btn-font{
+        font-size: 13px;
+    }
+}
+@media screen and (max-width:433px) {
+  
+    .h1-head{
+        font-size: 34px;
+        margin-bottom: 5px;
+    }
+    .p-head{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .btn-font{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:409px) {
+  
+    .h1-head{
+        font-size: 32px;
+        margin-bottom: 5px;
+    }
+    .p-head{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .btn-font{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:387px) {
+  
+    .h1-head{
+        font-size: 30px;
+        margin-bottom: 5px;
+    }
+    .p-head{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .btn-font{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:365px) {
+  
+    .h1-head{
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+    .p-head{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .btn-font{
+        font-size: 12px;
+    }
+}
