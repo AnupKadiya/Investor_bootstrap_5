@@ -481,4 +481,12 @@ img {
   #myBtn:hover {
     background-color: #555;
   }
-
+.aspt{
+    aspect-ratio: 1;
+}
+.mar-rig{
+    margin: auto;
+}
+.gapping{
+    gap: 5px!important;
+}

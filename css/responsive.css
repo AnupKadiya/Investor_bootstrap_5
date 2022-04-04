@@ -26,6 +26,9 @@
     .padd{
         padding: 10px!important;
     }
+    .navbar-toggler{
+        padding: 2px;
+    }
 }
 @media screen and (max-width:768px) {
     .border-remove{
