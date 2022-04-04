@@ -412,6 +412,8 @@ img {
 
 .finance-group {
     background-image: url("../images/banner-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .bg-clr-bl {
@@ -479,3 +481,4 @@ img {
   #myBtn:hover {
     background-color: #555;
   }
+

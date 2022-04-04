@@ -27,6 +27,13 @@
         padding: 10px!important;
     }
 }
+@media screen and (max-width:768px) {
+    .border-remove{
+        border-right: none!important;
+        border: none!important;
+    }
+    
+}
 @media screen and (max-width:470px) {
   
     .h1-head{
